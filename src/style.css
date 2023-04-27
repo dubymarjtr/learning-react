@@ -1,0 +1,20 @@
+body {
+  background: rgb(236, 236, 236); /* Make it white if you need */
+  padding: 0 24px;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Times New Roman', sans-serif;
+}
+
+.App {
+  border-radius: 15px;
+  padding: 30px;
+  background-color: rgb(32, 32, 32);
+  color: #d49e9e;
+  box-shadow: 9px 10px 20px 1px rgba(54,51,51,0.85);
+-webkit-box-shadow: 9px 10px 20px 1px rgba(54,51,51,0.85);
+-moz-box-shadow: 9px 10px 20px 1px rgba(54,51,51,0.85);
+}
